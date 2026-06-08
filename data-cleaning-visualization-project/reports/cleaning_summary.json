@@ -1,0 +1,56 @@
+{
+  "raw_rows": 41,
+  "raw_columns": [
+    "order_id",
+    "order_date",
+    "customer_email",
+    "region",
+    "category",
+    "product",
+    "units_sold",
+    "unit_price",
+    "payment_method"
+  ],
+  "missing_values_before": {
+    "order_id": 0,
+    "order_date": 0,
+    "customer_email": 1,
+    "region": 1,
+    "category": 1,
+    "product": 0,
+    "units_sold": 1,
+    "unit_price": 1,
+    "payment_method": 0
+  },
+  "duplicates_removed": 1,
+  "invalid_dates_removed": 1,
+  "negative_units_replaced": 1,
+  "units_sold_outliers_capped": 3,
+  "unit_price_outliers_capped": 3,
+  "outlier_bounds": {
+    "units_sold": {
+      "lower": 0.0,
+      "upper": 3.5
+    },
+    "unit_price": {
+      "lower": 0.0,
+      "upper": 279.1075
+    }
+  },
+  "clean_rows": 39,
+  "missing_values_after": {
+    "order_id": 0,
+    "order_date": 0,
+    "customer_email": 0,
+    "region": 0,
+    "category": 0,
+    "product": 0,
+    "units_sold": 0,
+    "unit_price": 0,
+    "payment_method": 0,
+    "revenue": 0,
+    "order_month": 0
+  },
+  "total_revenue": 5529.749999999998,
+  "average_order_value": 141.7884615384615
+}
