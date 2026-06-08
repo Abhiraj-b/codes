@@ -1,0 +1,42 @@
+order_id,order_date,customer_email,region,category,product,units_sold,unit_price,payment_method
+1001,2025-01-03,amina@example.com,North,Electronics,Wireless Mouse,2,24.99,Credit Card
+1002,2025-01-05,ben@example.com,South,Furniture,Office Chair,1,149.99,Debit Card
+1003,2025-01-06,cara@example.com,East,Clothing,Hoodie,3,39.99,UPI
+1004,2025-01-08,dan@example.com,West,Electronics,USB-C Hub,2,54.50,Credit Card
+1005,2025-01-09,,North,Home,Desk Lamp,1,29.99,Debit Card
+1006,2025-01-11,ella@example.com,South,Clothing,Sneakers,2,,UPI
+1007,2025-01-13,farah@example.com,East,Electronics,Keyboard,1,79.99,Credit Card
+1008,2025-01-14,gio@example.com,West,Furniture,Standing Desk,1,399.99,Credit Card
+1009,2025-01-16,hana@example.com,North,Home,Coffee Maker,,89.99,Debit Card
+1010,2025-01-18,ivan@example.com,South,Electronics,Webcam,2,64.99,UPI
+1011,2025-01-21,jules@example.com,East,Clothing,Jacket,1,119.99,Credit Card
+1012,2025-01-23,kai@example.com,West,Home,Air Purifier,1,229.99,Debit Card
+1013,2025-02-02,lina@example.com,North,Electronics,Wireless Mouse,4,24.99,UPI
+1014,2025-02-03,mina@example.com,South,Furnture,Bookshelf,1,129.99,Credit Card
+1015,2025-02-06,noah@example.com,East,Clothing,Hoodie,2,39.99,Debit Card
+1016,2025-02-08,omar@example.com,West,Electronics,Monitor,1,219.99,Credit Card
+1017,2025-02-10,pia@example.com,North,Home,Desk Lamp,2,29.99,UPI
+1018,2025-02-12,quinn@example.com,South,Clothing,Sneakers,1,84.99,Debit Card
+1019,2025-02-14,ravi@example.com,,Electronics,Keyboard,2,79.99,Credit Card
+1020,2025-02-16,sara@example.com,West,Furniture,Office Chair,2,149.99,Credit Card
+1021,2025-02-18,tara@example.com,North,Home,Coffee Maker,1,89.99,UPI
+1022,2025-02-20,uma@example.com,South,Electronics,Webcam,3,64.99,Debit Card
+1023,2025-02-22,viv@example.com,East,Clothing,Jacket,1,119.99,Credit Card
+1024,2025-02-24,will@example.com,West,Home,Air Purifier,1,229.99,UPI
+1024,2025-02-24,will@example.com,West,Home,Air Purifier,1,229.99,UPI
+1025,2025-03-02,xena@example.com,North,Electronics,USB-C Hub,2,54.50,Credit Card
+1026,2025-03-04,yara@example.com,South,Furniture,Standing Desk,1,399.99,Debit Card
+1027,2025-03-06,zane@example.com,East,Clothing,Hoodie,5,39.99,UPI
+1028,2025-03-08,adi@example.com,West,Electronics,Monitor,1,219.99,Credit Card
+1029,2025-03-10,bina@example.com,North,Home,Desk Lamp,2,29.99,Debit Card
+1030,2025-03-12,chet@example.com,South,Clothing,Sneakers,2,84.99,UPI
+1031,2025-03-14,diya@example.com,East,Electronics,Keyboard,2,79.99,Credit Card
+1032,2025-03-16,eli@example.com,West,Furniture,Bookshelf,1,129.99,Debit Card
+1033,2025-03-18,faye@example.com,North,Home,Coffee Maker,1,89.99,Credit Card
+1034,2025-03-20,gita@example.com,South,Electronics,Webcam,2,64.99,UPI
+1035,2025-03-22,haru@example.com,East,Clothing,Jacket,1,119.99,Debit Card
+1036,2025-03-24,ira@example.com,West,Home,Air Purifier,1,229.99,Credit Card
+1037,2025-03-26,jin@example.com,North,Electronics,Tablet,1,9999.99,Credit Card
+1038,2025-03-28,kora@example.com,South,Clothing,Socks,250,9.99,UPI
+1039,not_a_date,luca@example.com,East,,Mystery Box,1,49.99,Cash
+1040,2025-03-30,maya@example.com,West,Electronics,Wireless Mouse,-1,24.99,Debit Card
